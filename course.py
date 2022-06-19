@@ -1,1 +1,2 @@
+
 print("Course participants:")
