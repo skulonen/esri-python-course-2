@@ -1,5 +1,5 @@
 
-print("Course participants:")
 print("Johanna")
 print("Sampo")
+print("Santa Claus")
 
